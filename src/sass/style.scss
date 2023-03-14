@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url("../images/deepak-thakur-Jo3f_D9UOYA-unsplash.jpg");
+    background-size: cover;
+}
+
+.App {
+    text-align: center;
+    width: 60%;
+    background-color: rgba(243, 243, 243, 0.4);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+button {
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #f1710f;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 0.75rem;
+}
+
+.question {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+.start-btn {
+    margin-top: 1rem;
+    background-color: #00c843;
+}
+
+.next-btn {
+    margin-top: 1rem;
+    background-color: #23a0ff;
+}
